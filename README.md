@@ -4,7 +4,7 @@ A frontend developer who's passionate, about creating user-friendly web experien
 
 ## 🔭 What I'm currently working on
 
-- Currently, I'm focused on developing captivating user interfaces using HTML, CSS, and JavaScript.
+- Currently, I'm focused on developing captivating user interfaces using HTML, CSS, JavaScript, React.js.
 - I'm also keeping up with the trends in frontend development. I incorporate them into my projects.
 
 ## 🌱 What I'm currently learning
