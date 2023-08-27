@@ -1,32 +1,33 @@
 # Hi there! 👋 I'm Ajmal Ali.
 
-I'm a passionate frontend developer with a love for creating beautiful and user-friendly web experiences. Welcome to my GitHub profile!
+A frontend developer who's passionate, about creating user-friendly web experiences. Welcome to my GitHub profile!
 
 ## 🔭 What I'm currently working on
 
-- Developing stunning user interfaces using HTML, CSS, and JavaScript.
-- Exploring the latest trends in frontend development and incorporating them into my projects.
+- Currently, I'm focused on developing captivating user interfaces using HTML, CSS, and JavaScript.
+- I'm also keeping up with the trends in frontend development. I incorporate them into my projects.
 
 ## 🌱 What I'm currently learning
 
-- Mastering Next.js to build dynamic and interactive web applications.
-- Improving my frontend skills to create responsive and visually appealing designs.
+- Now I'm diving into mastering Next.js to build dynamic and interactive web applications.
+- Additionally, I'm constantly working on improving my frontend skills to craft designs that are visually appealing.
 
-## 🚀 My skills
+
+## 🚀 Here are some of my skills
 
 - **Languages:** JavaScript, HTML, CSS, SCSS
-- **Frameworks:** React.js
+- **Frameworks:** React.js, Material-UI, Bootstrap
 - **Version Control:** Git
-- **Design Tools:** Figma
 
 ## 💼 Let's connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ajmal-ali10)
+- Portfolio: [My Portfolio Website](https://www.crio.do/learn/portfolio/officialajmalali10/)
 
-Feel free to explore my repositories and projects. Don't hesitate to reach out if you'd like to collaborate or just have a chat about web development!
+🌐 Let's connect! You can find me on LinkedIn (Your LinkedIn Profile). Explore my portfolio website (Your Portfolio Website). Feel free to check out my repositories and projects. Don't hesitate to reach out if you're interested, in collaborating or just want to chat about web development!
 
-![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/{AjmalAli10}/count.svg)
 
 
 <!--
