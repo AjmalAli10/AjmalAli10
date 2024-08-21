@@ -4,13 +4,14 @@ A frontend developer who's passionate, about creating user-friendly web experien
 
 ## 🔭 What I'm currently working on
 
-- Currently, I'm focused on developing captivating user interfaces using HTML, CSS, JavaScript, React.js.
+- Currently, I'm focused on developing captivating user interfaces using HTML, CSS, JavaScript, React.js, Next.js, and Flutter.
 - I'm also keeping up with the trends in frontend development. I incorporate them into my projects.
 
 ## 🌱 What I'm currently learning
 
-- Now I'm diving into mastering Next.js to build dynamic and interactive web applications.
-- Additionally, I'm constantly working on improving my frontend skills to craft designs that are visually appealing.
+- Now I'm diving into mastering Node.js to build dynamic and interactive web applications.
+- Additionally, I'm constantly improving my frontend skills to craft visually appealing designs.
+- I'm also enhancing web performance to provide faster and more efficient user experiences.
 
 
 ## 🚀 Here are some of my skills
