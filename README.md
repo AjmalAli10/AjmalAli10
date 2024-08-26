@@ -17,7 +17,7 @@ A frontend developer who's passionate, about creating user-friendly web experien
 ## 🚀 Here are some of my skills
 
 - **Languages:** JavaScript, HTML, CSS, SCSS
-- **Frameworks & Library:** React.js, Next.js, Flutter, Material-UI, Bootstrap
+- **Frameworks & Library:** React.js, Next.js, Flutter, Tailwind, Material-UI, Bootstrap
 - **Version Control:** Git
 
 ## 💼 Let's connect
