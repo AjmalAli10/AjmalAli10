@@ -1,47 +1,69 @@
-# Hi there! 👋 I'm Ajmal Ali.
+# 👋 Hi, I'm Ajmal Ali
 
-A frontend developer who's passionate, about creating user-friendly web experiences. Welcome to my GitHub profile!
+Software Engineer building scalable systems, AI-powered platforms, and high-performance web applications.
 
-## 🔭 What I'm currently working on
+I enjoy solving complex engineering problems and turning them into clean, maintainable, production-ready systems. My work sits at the intersection of system design, full-stack development, and practical AI integration.
 
-- Currently, I'm focused on developing captivating user interfaces using HTML, CSS, JavaScript, React.js, Next.js, and Flutter.
-- I'm also keeping up with the trends in frontend development. I incorporate them into my projects.
+---
 
-## 🌱 What I'm currently learning
+## 🧠 What I Care About
 
-- Now I'm diving into mastering Node.js to build dynamic and interactive web applications.
-- Additionally, I'm constantly improving my frontend skills to craft visually appealing designs.
-- I'm also enhancing web performance to provide faster and more efficient user experiences.
+- Designing systems that scale with product growth  
+- Writing code that is clear, reliable, and maintainable  
+- Integrating AI where it creates real value — not just novelty  
+- Optimizing performance across frontend and backend layers  
+- Taking ideas from requirements to production with ownership  
 
+---
 
-## 🚀 Here are some of my skills
+## 🚀 What I Work On
 
-- **Languages:** JavaScript, HTML, CSS, SCSS
-- **Frameworks & Library:** React.js, Next.js, Flutter, Tailwind, Material-UI, Bootstrap
-- **Version Control:** Git
+- Full-stack applications using React, Next.js, Node.js, and SQL  
+- Configuration-driven architectures and internal platforms  
+- AI-powered systems (RAG pipelines, semantic search, intelligent filtering)  
+- Async workflows using queues, cron jobs, and event-driven patterns  
+- Performance optimization and production reliability  
 
-## 💼 Let's connect
+---
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ajmal-ali10)
-- Portfolio: [My Portfolio Website](https://www.crio.do/learn/portfolio/officialajmalali10/)
+## 🛠️ Tech Stack
 
-🌐 Let's connect! You can find me on LinkedIn (Your LinkedIn Profile). Explore my portfolio website (Your Portfolio Website). Feel free to check out my repositories and projects. Don't hesitate to reach out if you're interested, in collaborating or just want to chat about web development!
+**Languages**  
+JavaScript, TypeScript, SQL  
 
+**Frontend**  
+React, Next.js, Tailwind CSS  
 
-![Visitor Count](https://profile-counter.glitch.me/{AjmalAli10}/count.svg)
+**Backend & Data**  
+Node.js, Express, PostgreSQL, MySQL, Redis  
 
+**AI & Systems**  
+RAG (Retrieval-Augmented Generation)  
+LLM Integration  
+Semantic Search  
+Vector Databases (Qdrant)  
+HuggingFace
+AI Evals (Arize Pheonix)
 
-<!--
-**AjmalAli10/AjmalAli10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Infrastructure**  
+Docker, CI/CD, Git, Server-Sent Events (SSE)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Engineering Highlights
+
+- Configuration-driven architectures for scalable content and platform systems  
+- Async processing pipelines and queue-based workflows for media and AI operations  
+- Retrieval-augmented AI integrations and evaluation systems in production  
+- Performance-focused engineering across frontend and backend services  
+- Structured support and admin platforms improving operational clarity
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ajmal-ali10  
+- 🌐 Portfolio: https://www.ajmalali.me
+---
+
+> I believe great engineering isn’t about complexity — it’s about clarity, scalability, and measurable impact.
